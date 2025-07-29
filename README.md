@@ -1,11 +1,5 @@
 # ImageLabelManagementSystem
 
-<think>
-我们将为这个图片标签管理软件编写一个README文件，内容包含软件介绍、特点、安装方法、使用说明等。
- 由于软件是用Python和PySide6编写的，所以需要说明运行环境和依赖安装。
-
- 注意：由于我们无法实际运行生成Markdown文件，这里将直接提供Markdown格式的文本。
-</think>
 # 图片标签管理系统
 
 ## 简介
@@ -54,8 +48,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/ka5fxt/image-tagging-system.git
-   cd image-tagging-system
+   https://github.com/ka5fxt/ImageLabelManagementSystem.git
    ```
 
 2. 安装依赖：
@@ -65,7 +58,7 @@
 
 3. 运行程序：
    ```bash
-   python image_tagging_app.py
+   python Image Label Management System.py
    ```
 
 ## 使用指南
@@ -142,14 +135,10 @@
 - **图片处理**：QPixmap和QGraphicsView实现高效渲染
 - **设置存储**：使用QSettings保存用户偏好
 
-## 贡献与支持
-
-如果您有任何建议或发现问题，欢迎在GitHub上提交issue或pull request：
-[https://github.com/ka5fxt/image-tagging-system](https://github.com/ka5fxt/image-tagging-system)
 
 ## 许可
 
-本项目采用MIT许可证。有关详细信息，请参阅LICENSE文件。
+本项目采用 GPL-3.0 许可证。有关详细信息，请参阅LICENSE文件。
 
 ---
 
